@@ -7,7 +7,7 @@
 
 <br>
 
-<p> Projeto Responsivo (Mobile e Desktop) </p>
+<p> Projeto Responsivo ( Mobile e Desktop ) </p>
   
 <br>
 
