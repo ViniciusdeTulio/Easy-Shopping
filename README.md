@@ -21,4 +21,5 @@
     
 <br>
 <br>
+<img src="https://github.com/ViniciusdeTulio/Easy-Shopping/blob/master/img/Desktop.png?raw=true">
 <img src="https://github.com/ViniciusdeTulio/Easy-Shopping/blob/master/img/mobile.png?raw=true">
